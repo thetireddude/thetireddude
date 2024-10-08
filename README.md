@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thetireddude
-- 👀 I’m interested in ... coding!
+- 👀 I’m interested in ... coding and puzzles and gym and sports and anime and drawing!
 - 🌱 I’m currently learning ... Kotlin & React Native
 - 💞️ I’m looking to collaborate on ... hopefully something in the future :)
 - 📫 How to reach me ... pls don't 😄
