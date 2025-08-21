@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @thetireddude
-- 👀 I’m interested in ... gym, sports and anime!
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... hopefully something in the future :)
-- 📫 How to reach me ... i'm a hard man to find 🤣
-- 🎬 I'm currently watching Haikyuu!
+- 👀 I’m interested in ... gym, sports and drawing!
+- 🌱 I’m currently learning ... React.js
+- 💞️ I’m looking to collaborate on ... full-stack projects :)
+- 📫 How to reach me ... omaralim06@gmail.com 🤣
+- 🎬 I'm currently watching House of Cards!
 - ⚡ Fun fact: ... I'm left-handed!
 
 <!---
