@@ -19,13 +19,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=b5b9c1&vCenter=true&repeat=false&width=1100&height=50&lines=Projects+on+my+resume+right+now.+.+.)](https://git.io/typing-svg)
 
 <a href="https://github.com/thetireddude/new-news-ai-kirohacks-2026">
-  <img width="300" alt="thetireddude-new-news-ai-kirohacks-2026" src="https://github.com/user-attachments/assets/e25939a0-e4cc-462e-b0fe-d9739f05a5db" />
+  <img width="250" alt="thetireddude-new-news-ai-kirohacks-2026" src="https://github.com/user-attachments/assets/e25939a0-e4cc-462e-b0fe-d9739f05a5db" />
 </a>
 <a href="https://github.com/thetireddude/kayo-agent">
-  <img width="300" alt="thetireddude-kayo-agent" src="https://github.com/user-attachments/assets/47fbe299-6965-4fcd-b100-263555c72848" />
+  <img width="250" alt="thetireddude-kayo-agent" src="https://github.com/user-attachments/assets/47fbe299-6965-4fcd-b100-263555c72848" />
 </a>
 <a href="https://github.com/thetireddude/polysync-chrome-extension-polyprompt">
-  <img width="300" alt="thetireddude-polysync-chrome-extension-polyprompt" src="https://github.com/user-attachments/assets/2297aaff-7229-4811-aca1-29fe5ddb229b" />
+  <img width="250" alt="thetireddude-polysync-chrome-extension-polyprompt" src="https://github.com/user-attachments/assets/2297aaff-7229-4811-aca1-29fe5ddb229b" />
 </a>
 
 
