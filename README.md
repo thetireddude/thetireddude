@@ -1,5 +1,2 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=thetireddude&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
-<!---
-thetireddude/thetireddude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="1500" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/2431444d-9e23-4143-85b9-5e5c0b027702" />
+
