@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @thetireddude
-- 👀 I’m interested in ... gym, sports and drawing!
-- 🌱 I’m currently learning ... React.js
-- 💞️ I’m looking to collaborate on ... full-stack projects :)
-- 📫 How to reach me ... omaralim06@gmail.com 🤣
-- 🎬 I'm currently watching House of Cards!
-- ⚡ Fun fact: ... I'm left-handed!
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetireddude)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 thetireddude/thetireddude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
