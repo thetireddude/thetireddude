@@ -12,7 +12,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Personal Website-%23000000.svg?style=for-the-badge&logoColor=white">
+  <a href="https://thetireddude.github.io">
+    <img src="https://img.shields.io/badge/Personal Website-%23000000.svg?style=for-the-badge&logoColor=white">
+  </a>
 </p>
 
 
