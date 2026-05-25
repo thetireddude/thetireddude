@@ -19,7 +19,7 @@
 <a href="https://github.com/thetireddude/polysync-chrome-extension-polyprompt"><img width="250" alt="thetireddude-polysync-chrome-extension-polyprompt" src="https://github.com/user-attachments/assets/2297aaff-7229-4811-aca1-29fe5ddb229b" /></a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=b5b9c1&vCenter=true&repeat=false&width=1100&height=50&lines=My+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=15000&pause=1000&color=b5b9c1&vCenter=true&repeat=false&width=1100&height=50&lines=My+skills)](https://git.io/typing-svg)
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,next,react,nodejs,vite,npm,netlify,vercel,mysql,cpp,figma,vscode,supabase,opencv,sklearn,git,github)](https://skillicons.dev)
