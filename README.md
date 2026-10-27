@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://thetireddude.github.io">
-    <img src="https://img.shields.io/badge/Personal Website-%23000000.svg?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Personal Website-%23000000.svg?style=for-the-badge&logoColor=white" width=250>
   </a>
 </p>
 
